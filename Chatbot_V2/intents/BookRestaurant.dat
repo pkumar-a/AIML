@@ -1,0 +1,110 @@
+Reserve a table at $restaurant on $when 
+I want reservation at $restaurant 
+I am $name, need table for $partySize at $restaurant 
+$when works for me
+$when is perfect
+Book table for $partySize at $restaurant
+Party of $partySize
+Find $cuisine restaurants
+Find $costtype restaurants
+Find $location restaurants
+Find $cuisine, $costtype restaurants
+Find $cuisine restaurants in $location
+Find $costtype restaurants in $location
+Find $cuisine, $costtype restaurants in $location
+I want $cuisine restaurants
+I want $costtype restaurants
+I want $location restaurants
+I want $cuisine, $costtype restaurants
+I want $cuisine restaurants in $location
+I want $costtype restaurants in $location
+I want $cuisine, $costtype restaurants in $location
+Get $cuisine restaurants
+Get $costtype restaurants
+Get $location restaurants
+Get $cuisine, $costtype restaurants
+Get $cuisine restaurants in $location
+Get $costtype restaurants in $location
+Get $cuisine, $costtype restaurants in $location
+Get me $cuisine restaurants
+Get me $costtype restaurants
+Get me $location restaurants
+Get me $cuisine, $costtype restaurants
+Get me $cuisine restaurants in $location
+Get me $costtype restaurants in $location
+Get me $cuisine, $costtype restaurants in $location
+$cuisine
+$costtype $cuisine
+$cuisine $costtype
+$cuisine in $location
+$costtype $cuisine in $location
+$cuisine $costtype in $location
+Find $cuisine restaurant
+Find $costtype restaurant
+Find $location restaurant
+Find $cuisine, $costtype restaurant
+Find $cuisine restaurant in $location
+Find $costtype restaurant in $location
+Find $cuisine, $costtype restaurant in $location
+I want $cuisine restaurant
+I want $costtype restaurant
+I want $location restaurant
+I want $cuisine, $costtype restaurant
+I want $cuisine restaurant in $location
+I want $costtype restaurant in $location
+I want $cuisine, $costtype restaurant in $location
+Get $cuisine restaurant
+Get $costtype restaurant
+Get $location restaurant
+Get $cuisine, $costtype restaurant
+Get $cuisine restaurant in $location
+Get $costtype restaurant in $location
+Get $cuisine, $costtype restaurant in $location
+Get me $cuisine restaurant
+Get me $costtype restaurant
+Get me $location restaurant
+Get me $cuisine, $costtype restaurant
+Get me $cuisine restaurant in $location
+Get me $costtype restaurant in $location
+Get me $cuisine, $costtype restaurant in $location
+$cuisine food
+$costtype $cuisine food
+$cuisine $costtype food
+$cuisine in $location food
+$costtype $cuisine food in $location
+$cuisine $costtype food in $location
+Find $cuisine food joints
+Find $costtype food joints
+Find $location food joints
+Find $cuisine, $costtype food joints
+Find $cuisine food joints in $location
+Find $costtype food joints in $location
+Find $cuisine, $costtype food joints in $location
+I want $cuisine food joints
+I want $costtype food joints
+I want $location food joints
+I want $cuisine, $costtype food joints
+I want $cuisine food joints in $location
+I want $costtype food joints in $location
+I want $cuisine, $costtype food joints in $location
+Get $cuisine food joints
+Get $costtype food joints
+Get $location food joints
+Get $cuisine, $costtype food joints
+Get $cuisine food joints in $location
+Get $costtype food joints in $location
+Get $cuisine, $costtype food joints in $location
+Get me $cuisine food joints
+Get me $costtype food joints
+Get me $location food joints
+Get me $cuisine, $costtype food joints
+Get me $cuisine food joints in $location
+Get me $costtype food joints in $location
+Get me $cuisine, $costtype food joints in $location
+Find $cuisine restaurants
+Good $costtype restaurants
+Good $location restaurants
+Good $cuisine, $costtype restaurants
+Good $cuisine restaurants in $location
+Good $costtype restaurants in $location
+Good $cuisine, $costtype restaurants in $location
