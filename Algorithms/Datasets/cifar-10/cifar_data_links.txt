@@ -1,3 +1,4 @@
 download CIFAR-10 dataset from the below link.
+copy the below link:
 
 https://www.kaggle.com/manojkumar8802/cifar10 
