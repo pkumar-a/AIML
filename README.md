@@ -1,4 +1,2 @@
 # AIML
-AIML Course
-
-Changes
+AIML Case Studies
