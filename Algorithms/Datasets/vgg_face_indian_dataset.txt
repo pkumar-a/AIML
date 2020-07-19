@@ -1,1 +1,1 @@
-Image classification dataset linl - https://www.kaggle.com/manojkumar8802/vgg-face-indian-dataset
+Image classification dataset link - https://www.kaggle.com/manojkumar8802/vgg-face-indian-dataset
